@@ -67,3 +67,9 @@ club's members see the new menu item. Publishing again replaces the previous ver
   publishing creates a second module instead of updating the first.
 - The CLI behind the npm scripts is [`@tabbr/module-cli`](https://www.npmjs.com/package/@tabbr/module-cli);
   run `npx tabbr-module` for all its options.
+
+## License
+
+This starter is MIT licensed (see [LICENSE](LICENSE)): the module you build from it is yours.
+`@tabbr/module-sdk` and `@tabbr/module-cli` have their own license, which allows using them for
+modules that run on tabbr.

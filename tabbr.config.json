@@ -1,0 +1,8 @@
+{
+  "club": "",
+  "apiHost": "https://api.tabbr.be",
+  "moduleId": "",
+  "title": "My module",
+  "exposedModule": "./Module",
+  "exportName": "Module"
+}

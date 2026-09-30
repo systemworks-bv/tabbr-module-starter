@@ -1,0 +1,9 @@
+{
+  "club": "TESTCLUB",
+  "apiHost": "https://api.tabbr.be",
+  "moduleId": "club.poc.hello",
+  "title": "Hello",
+  "icon": "waving_hand",
+  "exposedModule": "./HelloModuleImpl",
+  "exportName": "HelloModuleImpl"
+}
